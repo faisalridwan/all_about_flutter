@@ -27,18 +27,19 @@ class MyApp extends StatelessWidget {
           ),
           actions: <Widget>[
             IconButton(icon: Icon(Icons.settings), onPressed: () {}),
-            IconButton(icon: Icon(Icons.exit_to_app), onPressed: () {})
+            IconButton(icon: Icon(Icons.exit_to_app), onPressed: () {}),
           ],
           flexibleSpace: Container(
             decoration: BoxDecoration(
-                gradient: LinearGradient(
-                    colors: [Color(0xff0096ff), Color(0xff6610f2)],
-                    begin: FractionalOffset.topLeft,
-                    end: FractionalOffset.bottomRight),
-                image: DecorationImage(
-                    image: AssetImage("assets/pattern.png"),
-                    fit: BoxFit.fill,
-                    repeat: ImageRepeat.repeat)),
+              gradient: LinearGradient( // untuk menambah gradasi
+                  colors: [Color(0xff0096ff), Color(0xff6610f2)],
+                  begin: FractionalOffset.topLeft,
+                  end: FractionalOffset.bottomRight),
+              image: DecorationImage(
+                  image: AssetImage("assets/pattern.png"), // untuk menambah patter
+                  fit: BoxFit.fill,
+                  repeat: ImageRepeat.repeat),
+            ),
           ),
         ),
       ),
