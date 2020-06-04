@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Screenshoot
 
-<img src="https://github.com/faisalridwan/all_about_flutter/blob/master/image/Screenshot_1591244129.png" width="60%">
+<img src="https://github.com/faisalridwan/all_about_flutter/blob/master/image/Screenshot_1591244129.png" width="40%">
 
 
 ## Getting Started
