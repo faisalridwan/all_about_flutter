@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## ScreenShoot
+## Screenshoot
 
 <img src="https://github.com/faisalridwan/all_about_flutter/blob/master/image/Screenshot_1591244129.png" width="60%">
 
