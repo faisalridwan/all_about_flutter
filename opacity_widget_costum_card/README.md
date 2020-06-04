@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## ScreenShoot
 
-<img src="images-app/image/Screenshot_1591244129.png" width="60%">
+<img src="image/Screenshot_1591244129.png" width="60%">
 
 
 ## Getting Started
